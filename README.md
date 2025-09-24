@@ -5,7 +5,7 @@ Project ini dibuat untuk menampilkan profil, skill, dan project yang sudah diker
 
 ## 🔧 Tech Stack
 - HTML, CSS, JavaScript  
-- (opsional: React kalau memang pakai)  
+- Simple Knowledge about website creation
 - Deployment: GitHub Pages  
 
 ## 📂 Clone & Run Project
